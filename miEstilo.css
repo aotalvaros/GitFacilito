@@ -2,6 +2,10 @@ body{
     width: 900PX;
     margin: auto;
 }
+.fondo{
+  background: url("https://static4.depositphotos.com/1000423/372/i/38…729253-stock-photo-green-abstract-backgrounds.jpg");
+ 
+}
 
 nav li{
     display: inline-block;
