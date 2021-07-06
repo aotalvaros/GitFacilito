@@ -3,3 +3,17 @@ body{
     margin: auto;
 }
 
+nav li{
+    display: inline-block;
+    padding: 5px;
+    background: aquamarine;
+}
+
+.menuSuperior{
+    font-size:calc;
+}
+
+btn btn-primary{
+    background-color: aqua;
+}
+
